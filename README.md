@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shradhasaxena23&label=Profile%20views&color=0e75b6&style=flat" alt="shradhasaxena23" /> </p>
 
-- 🔭 I’m currently working on [E-commerce relica using reactjs and tailwind]
+- 🔭 I’m currently working on E-commerce relica using reactjs and tailwind
 
 - 🌱 I’m currently learning **Redux and Nodejs**
 
